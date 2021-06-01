@@ -2,7 +2,7 @@
 
 ## This Project deals with the following - 
 * Java FX form designing with Scenebuilder
-*MySql
+* MySql
 * Java DataBase Connectivity - JDBC
 
 ## Screenshots:
